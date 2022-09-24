@@ -16,7 +16,7 @@
 <a href="https://twitter.com/heshant3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heshant3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/heshant3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heshant3" height="30" width="40" /></a>
 <a href="https://fb.com/heshankt3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heshankt3" height="30" width="40" /></a>
-<a href="https://www.behance.net/heshant3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="heshant3" height="30" width="40" /></a>
+<a href="https://www.behance.net/heshantharindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="heshant3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
