@@ -2,7 +2,7 @@
 
 <h3 align="center">UI | UX Engineer</h3>
 
-<img align="center" alt= "Heshan Tharindu kalubowila" src="https://raw.githubusercontent.com/heshant3/BurgerShopLandingPage/main/Burger Shop Landing Page.png"/>
+<img align="center" alt= "Heshan Tharindu kalubowila" src="https://github.com/heshant3/heshant3/blob/main/photo_2022-10-15_18-23-56.jpg?raw=true"/>
 
 - 🌱 I’m currently learning **Rajarata University Of Sri lanka**
 
