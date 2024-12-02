@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Heshan Tharindu</h1>
 
-<h3 align="center">UI | UX Engineer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <img align="center" alt= "Heshan Tharindu kalubowila" src="https://github.com/heshant3/heshant3/blob/main/photo_2022-10-15_18-23-56.jpg?raw=true"/>
 
