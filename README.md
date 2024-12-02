@@ -2,7 +2,7 @@
 
 <h3 align="center">Frontend Developer</h3>
 
-<img align="center" alt= "Heshan Tharindu kalubowila" src="https://github.com/heshant3/heshant3/blob/main/photo_2022-10-15_18-23-56.jpg?raw=true"/>
+<img align="center" alt= "Heshan Tharindu kalubowila" src="https://github.com/heshant3/heshant3/blob/9ab4999536fe07cf93794f43e270965b9c119107/Screenshot%202024-12-02%20at%2021.36.55.png?raw=true"/>
 
 - 🌱 I’m currently learning **Rajarata University Of Sri lanka**
 
