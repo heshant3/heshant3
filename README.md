@@ -1,10 +1,13 @@
-<h1 align="center">Hi There 👋, I'm Heshan Tharindu</h1>
+<h1 align="center">Hi There 👋, I'm Heshan Tharindu Kalubowila</h1>
+<h3 align="center">Full-Stack Developer | UI/UX Designer | 3D & IoT Expert</h3>
 
-<h3 align="center">Software Engineer</h3>
+<img align="center" alt= "Heshan Tharindu kalubowila" src="https://raw.githubusercontent.com/heshant3/portfilio/refs/heads/main/Screenshot_18-11-2025_145447_localhost.jpeg"/>
 
-<img align="center" alt= "Heshan Tharindu kalubowila" src="[https://github.com/heshant3/heshant3/blob/9ab4999536fe07cf93794f43e270965b9c119107/Screenshot%202024-12-02%20at%2021.36.55.png?raw=true](https://raw.githubusercontent.com/heshant3/portfilio/refs/heads/main/Screenshot_18-11-2025_145447_localhost.jpeg)"/>
+### 🔹 About Me
+Creative Full-Stack Developer with a flair for **UI/UX design, 3D modeling, IoT, and cloud solutions**.  
+Founder of **Bedqo.com**, building **real-world applications with clean design and robust functionality**.  
 
-- 🌱 I’m currently learning **Rajarata University Of Sri lanka**
+---
 
 - 👨‍💻 All of my projects are available at [https://heshan.dev/](https://heshan.dev/)
 
@@ -13,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/heshant3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="heshant3" height="30" width="40" /></a>
-<a href="https://twitter.com/heshant3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heshant3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/heshant3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heshant3" height="30" width="40" /></a>
 <a href="https://fb.com/heshankt3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heshankt3" height="30" width="40" /></a>
 <a href="https://www.behance.net/heshantharindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="heshant3" height="30" width="40" /></a>
