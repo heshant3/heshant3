@@ -1,8 +1,8 @@
 <h1 align="center">Hi There 👋, I'm Heshan Tharindu</h1>
 
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
-<img align="center" alt= "Heshan Tharindu kalubowila" src="https://github.com/heshant3/heshant3/blob/9ab4999536fe07cf93794f43e270965b9c119107/Screenshot%202024-12-02%20at%2021.36.55.png?raw=true"/>
+<img align="center" alt= "Heshan Tharindu kalubowila" src="[https://github.com/heshant3/heshant3/blob/9ab4999536fe07cf93794f43e270965b9c119107/Screenshot%202024-12-02%20at%2021.36.55.png?raw=true](https://raw.githubusercontent.com/heshant3/portfilio/refs/heads/main/Screenshot_18-11-2025_145447_localhost.jpeg)"/>
 
 - 🌱 I’m currently learning **Rajarata University Of Sri lanka**
 
